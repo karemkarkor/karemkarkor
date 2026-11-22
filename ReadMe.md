@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hi, I'm a Computer Science Student 👋<br><br>I'm a Computer Science student passionate about Software Development, Backend Engineering, and DevOps. I enjoy building software applications, designing backend systems and APIs, working with databases, and exploring how software runs in real-world environments.<br><br>I'm also interested in Linux, server administration, cloud computing, and automation. I love learning how things work under the hood and turning ideas into practical projects.<br><br>Currently exploring: Linux, Docker, Cloud Computing, and CI/CD. 🚀
-
+# About Me:
+Hi, I'm a Computer Science Student<br>I'm a Computer Science student passionate about Software Development, Backend Engineering, and DevOps. I enjoy building software applications, designing backend systems and APIs, working with databases, and exploring how software runs in real-world environments.<br>I'm also interested in Linux, server administration, cloud computing, and automation. I love learning how things work under the hood and turning ideas into practical projects.<br>Currently exploring: Linux, Docker, Cloud Computing, and CI/CD.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/993964399737983157) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/karemkarkor7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/karem-karkor) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:karemkarkor@hotmail.com) 
